@@ -1,4 +1,4 @@
-#------------------------------------------------------------------------------------#
+#------------------ Reading Temperature Data from DS18B20 --------------------------#
 #
 # Users having Rasbian with updated Linux kernel 3.18  need to edit boot config file to work with one wire sensors.
 # In terminal edit config file,

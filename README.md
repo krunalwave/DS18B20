@@ -2,7 +2,7 @@
 
 Temperature Data From DS18B20 Sensors
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://raw.githubusercontent.com/krunalwave/DS18B20/master/k.png)](krunalwave.github.io)
 
 
 ## Users having Rasbian with updated Linux kernel 3.18  need to edit boot config file to work with one wire sensors.
